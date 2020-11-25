@@ -1,0 +1,7 @@
+---
+# vars file for xmlfile
+
+policy_number: 123456.0001
+sum_insured: 100000
+death_amount: 2000
+thanks_note: Tavita Says Thanks

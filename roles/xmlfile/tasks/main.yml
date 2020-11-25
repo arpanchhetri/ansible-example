@@ -1,0 +1,7 @@
+---
+# tasks file for xmlfile
+
+- name: hydrate xml file
+  template:
+      dest: datasource/LIF123.xml
+      src: templates/LIF123.j2
